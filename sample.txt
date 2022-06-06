@@ -1,1 +1,1 @@
-python is easy
+scala is easy
